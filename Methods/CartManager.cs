@@ -11,7 +11,7 @@ namespace Methods
             Console.WriteLine("Product " + product.Name + " added to your cart");
         }
 
-        public void Add2(string prodName, string desc, double price)
+        public void Add(string prodName, string desc, double price)
         {
             Console.WriteLine("Product " + prodName + " added to your cart.");
         }

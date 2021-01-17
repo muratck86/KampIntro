@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{E06BB7A2-BD7A-4594-B4AF-137BD7A63589}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{1B4122BE-096A-4C31-9FD4-2F2527E55333}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{1B4122BE-096A-4C31-9FD4-2F2527E55333}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematics", "Mathematics\Mathematics.csproj", "{97F712F7-1CC5-4DDC-A621-C386191A9678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mathematics", "Mathematics\Mathematics.csproj", "{97F712F7-1CC5-4DDC-A621-C386191A9678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{37E1BD15-5450-43AC-97DC-19A2C0F5457C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{37E1BD15-5450-43AC-97DC-19A2C0F5457C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{092CF32A-5488-4FA8-8E61-FE03C1D8CB97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{37E1BD15-5450-43AC-97DC-19A2C0F5457C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37E1BD15-5450-43AC-97DC-19A2C0F5457C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37E1BD15-5450-43AC-97DC-19A2C0F5457C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092CF32A-5488-4FA8-8E61-FE03C1D8CB97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092CF32A-5488-4FA8-8E61-FE03C1D8CB97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092CF32A-5488-4FA8-8E61-FE03C1D8CB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092CF32A-5488-4FA8-8E61-FE03C1D8CB97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
